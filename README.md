@@ -15,8 +15,13 @@ all the account holder’s list.
 Features:
 
 Open an account
+
 Balance Inquiry
+
 Deposit amount
+
 Withdraw amount
+
 Close an account
+
 Show all accounts
