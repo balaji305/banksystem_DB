@@ -12,7 +12,7 @@ amount. Then the user can also deposit and withdraw money just by providing the 
 certain purpose, he/she can also check for the balance inquiry which displays the account holder’s name  with account number type and amount. He/she can also check for 
 all the account holder’s list. 
 
-Features:
+FEATURES OF THE BANK MANAGEMENT SYSTEM
 
 Open an account
 
